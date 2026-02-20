@@ -82,6 +82,18 @@ Serão utilizados quatro CLPs responsáveis pelo controle das prensas, sistema d
 - Sensores industriais: R$ 18.000,00  
 - Infraestrutura física (rack, nobreak, cabeamento): R$ 20.000,00  
 
+### 3.6 Cabo Ethernet industrial Cat6 blindado:
+
+Média de mercado:
+R$ 8,00 a R$ 15,00 por metro
+
+Vamos usar média conservadora: R$ 12,00/m
+
+200 metros × R$ 12,00 = R$ 2.400,00
+
+Se comprar 250 metros:
+
+250 × 12 = R$ 3.000,00
 ---
 
 ## 4 ORÇAMENTO GERAL ESTIMADO
@@ -132,3 +144,10 @@ https://www.tijolo.eco.br/produtos/tijolo_ecologico/;
 https://ikigai.eco.br/blog/post/quanto-custa-construir-com-tijolos-ecologicos;
 https://www.youtube.com/watch?v=cld4LSv5TR8;
 https://www.youtube.com/watch?v=i8pp9Lvm2cc.
+
+## Links para Compra
+https://produto.mercadolivre.com.br/MLB-3425515441-cabo-de-rede-cat6-blindado-stp-para-uso-externo-200-metros-_JM?matt_tool=18956390&utm_source=chatgpt.com;
+
+https://www.lri.com.br/lri-sw-8g2swm-switch-ethernet-industrial-web-gerenciavel-8-portas-gigabit-2-portas-sfp?utm_source=chatgpt.com;
+
+https://www.dimensional.com.br/controlador-cpu-8-digitais-sem-saida-24vcc-150-kb-simatic-s7-1200-6es72121ag500xb0-siemens/p?idsku=1468415&utm_source=chatgpt.com.
